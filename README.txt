@@ -8,4 +8,4 @@ The goal is to find the packet that contains the print and reconstruct it to vie
 -----------------soloution
 It can be obtained by finding the packet that contains post script information. Headers need to be cleaned up from the data and the nthe file can be saved as a .ps files
 
-The Key to this challenge is MCA-F2GAA31RB2
+The Key to this challenge is MCA-F231BC1B
